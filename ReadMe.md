@@ -18,3 +18,7 @@
     git commit <file_name>
     or git commit -m 'commit massgae' - with commit massgae
 
+
+
+  ## Get the status of current Repo
+     git status
